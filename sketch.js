@@ -50,8 +50,10 @@ degSlider.setStyle({
   t.setStyle({
     fillBgOff: color(127, 153, 104),
     fillBgOffHover: color(208, 235, 185),
+    fillBgOffActive: color(208, 235, 185),
     fillBgOn: color(130, 45, 35),
     fillBgOnHover: color(176, 86, 76),
+    fillBgOnActive: color(176, 86, 76),
   })
   
 }
